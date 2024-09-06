@@ -1,6 +1,6 @@
 # Hi there, I'm Manel Soler 👋
 
-<img src="img/yo_2.jpg" alt="Manel Soler" width="150" height="150" align="center" style="border-radius: 50%; object-fit: cover;">
+<img src="img/yo_2.png" alt="Manel Soler" width="150" height="150" align="center" style="border-radius: 50%; object-fit: cover;">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Data+Scientist;" alt="Typing SVG" />
