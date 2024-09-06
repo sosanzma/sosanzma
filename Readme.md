@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="img/yo_2.png" alt="Manel Soler" width="200" style="border-radius: 50%;" />
+  <img src="img/yo_2.jpg" alt="Manel Soler" width="200" style="border-radius: 85%;" />
 </div>
 
 

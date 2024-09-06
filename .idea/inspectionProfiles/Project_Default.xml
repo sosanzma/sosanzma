@@ -1,0 +1,45 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.13" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="14">
+            <item index="0" class="java.lang.String" itemvalue="tiktoken" />
+            <item index="1" class="java.lang.String" itemvalue="openai" />
+            <item index="2" class="java.lang.String" itemvalue="langchain" />
+            <item index="3" class="java.lang.String" itemvalue="deeplake" />
+            <item index="4" class="java.lang.String" itemvalue="newspaper3k" />
+            <item index="5" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="6" class="java.lang.String" itemvalue="loguru" />
+            <item index="7" class="java.lang.String" itemvalue="click" />
+            <item index="8" class="java.lang.String" itemvalue="xmlschema" />
+            <item index="9" class="java.lang.String" itemvalue="asyncio" />
+            <item index="10" class="java.lang.String" itemvalue="spade_artifact" />
+            <item index="11" class="java.lang.String" itemvalue="spade" />
+            <item index="12" class="java.lang.String" itemvalue="deepspeed" />
+            <item index="13" class="java.lang.String" itemvalue="neural-compressor" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
