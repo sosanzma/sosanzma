@@ -1,12 +1,9 @@
 # Hi there, I'm Manel Soler 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Data+Scientist;I like to+learn+and+apply" alt="Typing SVG" />
-</div>
-
+<img src="path_to_your_image.png" alt="Manel Soler" width="200" align="right">
 
 <div align="center">
-  <img src="img/yo_2.jpg" alt="Manel Soler" width="200" style="border-radius: 85%;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Data+Scientist;Cutting-edge+AI+Enthusiast;Always+learning+and+applying" alt="Typing SVG" />
 </div>
 
 
