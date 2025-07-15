@@ -10,7 +10,7 @@
 
 I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI technologies, with a focus on "diving into production".
 
-- 🔭 I'm currently working on **developing artifacts for SPADE and creating tools for multi-agent systems**
+- 🔭 I'm currently working on **Extension for SPADE to integrate Large Language Models in agents** [spade_llm](https://github.com/sosanzma/spade_llm)
 - 🌱 I like to stay tuned, always learning about **the latest advancements in AI and machine learning**
 - 💡 Interested in RAG, LLM, Multi Agent Systems, and Agentic Agencies
 
@@ -45,27 +45,13 @@ I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI
 - **Programming**: Advanced Python, Intermediate R
 - **Emerging Technologies**: RAG, LLM, Multi Agent Systems, Agentic Agencies, Vectorial DB (all Intermediate level)
 
-## 💼 Work Experience
-
-**AI Engineer** @ VRAIN (Valencian Research Institute for Artificial Intelligence)
-*February 2024 - Present*
-- Developing artifacts for SPADE (Smart Python Agent Development Environment)
-- Creating tools for agents in multi-agent systems
-- Enhancing agent capabilities and interactions
-- Advancing agent-based software engineering
-
-**Data Scientist** @ Solver Intelligent Analytics
-*October 2022 - February 2024*
-- Implemented data science techniques: ETL, feature engineering, visualization
-- Developed machine learning models: clustering, demand forecasting, attribution modeling
-- Created advanced ML solutions: delay forecasting, classification, regression
-- Managed deployment & workflow using AWS, Docker, Airflow, Jenkins
 
 ## 🏗️ Check my Personal Projects
 
-1. [QA Over Docs](https://github.com/sosanzma/QA_over_docs) - A tool for question-answering over documents with source verification
-2. [LearnSherpa_AI](https://github.com/sosanzma/LearnSherpa_AI) - A Multy agent system for book recommendations
-3. [Talk Tube](https://github.com/sosanzma/talktube) - A YouTube video interaction tool
+1. [LearnSherpa_AI](https://github.com/sosanzma/LearnSherpa_AI) - A Multy agent system for book recommendations
+2. [QA Over Docs](https://github.com/sosanzma/QA_over_docs) - A tool for question-answering over documents with source verification
+3. [MPC server for Smarti Cities](https://github.com/sosanzma/SmartCityMCP) - MCP server providing real-time traffic, bike-sharing, air quality and weather data from Valencia, Spain for Claude and other LLMs.
+4. [Talk Tube](https://github.com/sosanzma/talktube) - A YouTube video interaction tool
 
 ## 📊 GitHub Stats
 
