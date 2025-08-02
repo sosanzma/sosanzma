@@ -1,5 +1,5 @@
 # Hi there, I'm Manel Soler 👋
-
+<meta name="google-site-verification" content="bni7pRppgBa2PYG9F7grgoRsMlU47w9etD8GnBuHsjk" />
 <img src="img/yo_2.png" alt="Manel Soler" width="150" height="150" align="center" style="border-radius: 50%; object-fit: cover;">
 
 <div align="center">
