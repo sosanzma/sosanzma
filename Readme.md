@@ -53,9 +53,7 @@ I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sosanzma&theme=radical" alt="Manel's GitHub Summary" />
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sosanzma&theme=radical&column=7" alt="Manel's GitHub Trophies" />
-</div>
+
 
 ## 🤝 Connect with me
 
