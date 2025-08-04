@@ -10,10 +10,6 @@
 
 I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI technologies, with a focus on "diving into production".
 
-- 🔭 I'm currently working on **Extension for SPADE to integrate Large Language Models in agents** [spade_llm](https://github.com/sosanzma/spade_llm)
-- 🌱 I like to stay tuned, always learning about **the latest advancements in AI and machine learning**
-- 💡 Interested in RAG, LLM, Multi Agent Systems, and Agentic Agencies
-
 
 ## 🛠️ Technologies & Tools
 
@@ -36,14 +32,6 @@ I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-## 🚀 My Expertise
-
-- **AI Engineering**: Developing artifacts for SPADE, creating tools for multi-agent systems, enhancing agent capabilities and interactions
-- **Data Science**: Advanced statistics, machine learning, ETL, feature engineering, visualization
-- **Machine Learning**: Clustering, demand forecasting, attribution modeling, delay forecasting, classification, regression
-- **Cloud & DevOps**: AWS, Docker, Airflow, Jenkins
-- **Programming**: Advanced Python, Intermediate R
-- **Emerging Technologies**: RAG, LLM, Multi Agent Systems, Agentic Agencies, Vectorial DB (all Intermediate level)
 
 
 ## 🏗️ Check my Personal Projects
