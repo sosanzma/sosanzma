@@ -11,35 +11,11 @@
 I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI technologies, with a focus on "diving into production".
 
 
-## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-
-
-
-## 🏗️ Check my Personal Projects
+## 🏗️ Check some of my repos
 
 1. [LearnSherpa_AI](https://github.com/sosanzma/LearnSherpa_AI) - A Multy agent system for book recommendations
-2. [QA Over Docs](https://github.com/sosanzma/QA_over_docs) - A tool for question-answering over documents with source verification
-3. [MPC server for Smarti Cities](https://github.com/sosanzma/SmartCityMCP) - MCP server providing real-time traffic, bike-sharing, air quality and weather data from Valencia, Spain for Claude and other LLMs.
-4. [Talk Tube](https://github.com/sosanzma/talktube) - A YouTube video interaction tool
+2. [MPC server for Smarti Cities](https://github.com/sosanzma/SmartCityMCP) - MCP server providing real-time traffic, bike-sharing, air quality and weather data from Valencia, Spain for Claude and other LLMs.
 
 ## 📊 GitHub Stats
 
