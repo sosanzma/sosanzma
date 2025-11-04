@@ -8,27 +8,36 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI technologies, with a focus on "diving into production".
+I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI technologies.
+I'm interested in LLMs, SLMs, angents and multiagents systems. With focus on orchestration, tool, context/memory, evualiation and observability
 
 
 
-## 🏗️ Check some of my repos
+## Some of my repos
 
-1. [LearnSherpa_AI](https://github.com/sosanzma/LearnSherpa_AI) - A Multy agent system for book recommendations
-2. [MPC server for Smarti Cities](https://github.com/sosanzma/SmartCityMCP) - MCP server providing real-time traffic, bike-sharing, air quality and weather data from Valencia, Spain for Claude and other LLMs.
+- **SPADE-LLM** — LLM integration for SPADE: providers, tools, memory, guardrails, coordinator patterns.  
+  https://github.com/sosanzma/spade_llm
 
-## 📊 GitHub Stats
+- **SPADE-FIWARE-Artifacts** — NGSI-LD artifacts to connect SPADE with FIWARE (Orion/Scorpio): insert, update, subscribe.  
+  https://github.com/sosanzma/SPADE-FIWARE-Artifacts
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosanzma&show_icons=true&theme=radical" alt="Manel's GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sosanzma&theme=radical" alt="Manel's GitHub Streak" />
-</div>
+- **SmartCityMCP** — MCP server exposing traffic/bikes/air-quality/weather data for tool-use with LLMs.  
+  https://github.com/sosanzma/SmartCityMCP
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sosanzma&theme=radical" alt="Manel's GitHub Summary" />
-</div>
+- **rag-techniques-handbook** — RAG modules with reranking and evaluation scripts.  
+  https://github.com/sosanzma/rag-techniques-handbook
+
+- **LearnSherpa_AI** — Multi-agent research assistant (CrewAI) with Chainlit UI.  
+  https://github.com/sosanzma/LearnSherpa_AI
+
+- **QA_over_docs** — Source-grounded QA over documents with LangChain/DeepLake.  
+  https://github.com/sosanzma/QA_over_docs
+
+
+## 📊 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sosanzma&show_icons=false&hide=stars,issues,contribs&hide_title=true" alt="stats" />
+</p>
 
 
 ## 🤝 Connect with me
