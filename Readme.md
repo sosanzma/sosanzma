@@ -11,35 +11,6 @@
 I'm an AI Engineer and Data Scientist  I like to learn and apply cutting-edge AI technologies.
 I'm interested in LLMs, SLMs, angents and multiagents systems. With focus on orchestration, tool, context/memory, evualiation and observability
 
-
-
-## Some of my repos
-
-- **SPADE-LLM** — LLM integration for SPADE: providers, tools, memory, guardrails, coordinator patterns.  
-  https://github.com/sosanzma/spade_llm
-
-- **SPADE-FIWARE-Artifacts** — NGSI-LD artifacts to connect SPADE with FIWARE (Orion/Scorpio): insert, update, subscribe.  
-  https://github.com/sosanzma/SPADE-FIWARE-Artifacts
-
-- **SmartCityMCP** — MCP server exposing traffic/bikes/air-quality/weather data for tool-use with LLMs.  
-  https://github.com/sosanzma/SmartCityMCP
-
-- **rag-techniques-handbook** — RAG modules with reranking and evaluation scripts.  
-  https://github.com/sosanzma/rag-techniques-handbook
-
-- **LearnSherpa_AI** — Multi-agent research assistant (CrewAI) with Chainlit UI.  
-  https://github.com/sosanzma/LearnSherpa_AI
-
-- **QA_over_docs** — Source-grounded QA over documents with LangChain/DeepLake.  
-  https://github.com/sosanzma/QA_over_docs
-
-
-## 📊 GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sosanzma&show_icons=false&hide=stars,issues,contribs&hide_title=true" alt="stats" />
-</p>
-
-
 ## 🤝 Connect with me
 
 <div align="center">
